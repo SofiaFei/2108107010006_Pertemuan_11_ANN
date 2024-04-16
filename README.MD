@@ -63,9 +63,11 @@ pip install -r requirements.txt
 ## Perbandingan Akurasi SVM dan ANN
 ### SVM
 Akurasi yang didapat dengan menggunakan [Model SVM](https://github.com/SofiaFei/2108107010006-Tugas-2-SVM/blob/main/SVM_Classification.ipynb) yaitu sebesar 89% untuk RBF Kernel dan 85% untuk Linear Kernel. 
+
 ![image](https://github.com/SofiaFei/2108107010006_Pertemuan_11_ANN/assets/111619251/cec71600-4b80-448f-93b0-5d0a80a3d4a9)
 ### ANN
 Akurasi yang didapat dengan menggunakan [model ANN](https://github.com/SofiaFei/2108107010006_Pertemuan_11_ANN/blob/main/ANN.ipynb) yaitu sebesar 91,38%. 
+
 ![image](https://github.com/SofiaFei/2108107010006_Pertemuan_11_ANN/assets/111619251/06d0ae62-1cf6-46f6-ac91-c0dcd72bacfd)
 
 ### Kesimpulan
