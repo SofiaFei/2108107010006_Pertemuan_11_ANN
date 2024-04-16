@@ -14,7 +14,8 @@
 
 Dataset yang digunakan yaitu :
 
-- [Heart Disease](https://archive.ics.uci.edu/dataset/45/heart+disease)
+- [Heart Disease](https://archive.ics.uci.edu/dataset/45/heart+disease) dari Uci Edu
+
 Heart disease (penyakit jantung) menggambarkan berbagai kondisi yang memengaruhi jantung Anda. Penyakit Heart disease, antara lain, blood vessel disease (penyakit pembuluh darah), seperti penyakit arteri koroner, masalah irama jantung (arrhythmias) dan kelainan jantung sejak lahir (congenital heart defects).
 
 Istilah "Heart disease" sering digunakan secara bergantian dengan istilah "cardiovascular disease". cardiovascular disease umumnya merujuk pada kondisi yang melibatkan pembuluh darah yang menyempit atau tersumbat yang dapat menyebabkan serangan jantung, nyeri dada (angina) atau stroke. Kondisi jantung lainnya, seperti kondisi yang memengaruhi otot, katup, atau irama jantung, juga dianggap sebagai bentuk Heart disease.
@@ -57,7 +58,7 @@ source env_name/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-4. Jalankan semua code cell secara berurutan
+4. Run all the code cell sequentially
 
 ## Perbandingan Akurasi SVM dan ANN
 ### SVM
