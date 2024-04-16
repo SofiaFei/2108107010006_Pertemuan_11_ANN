@@ -10,8 +10,6 @@
 
 - Prediksi penyakit jantung berdasarkan data klinis yang tersedia
 
-- Prediksi harga unit area rumah berdasarkan jarak ke stasiun MRT terdekat?????????????
-
 ## Dataset
 
 Dataset yang digunakan yaitu :
@@ -25,7 +23,8 @@ Dataset yang digunakan yaitu :
 
 ## Cara Menjalankan Code
 
-1. Install requirements [pip install -r requirements.txt]
+1. Install requirements 
+'''pip install -r requirements.txt'''
 2. Jalankan semua code cell secara berurutan
 
 ## Perbandingan Akurasi SVM dan ANN
