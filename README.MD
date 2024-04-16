@@ -23,9 +23,19 @@ Dataset yang digunakan yaitu :
 
 ## Cara Menjalankan Code
 
-1. Install requirements 
-'''pip install -r requirements.txt'''
-2. Jalankan semua code cell secara berurutan
+1. Making virtual environment: 
+```bash
+python3 -m venv nama_env
+```
+2. Activate virtual environment:
+```bash
+source env_name/bin/activate
+```
+3. Install requirements :
+```bash
+pip install -r requirements.txt
+```
+4. Jalankan semua code cell secara berurutan
 
 ## Perbandingan Akurasi SVM dan ANN
 ### SVM
